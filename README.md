@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Chaurasia</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
-👀 I’m interested in finding solutions by implementing data science
+<h5👀 I’m interested in finding solutions by implementing data science
 🌱 I’m currently learning data science & AI
 💞️ I’m looking to collaborate on topic related to solution by elementing data science.
 📫 Connect me on linkdin www.linkedin.com/in/aditya-chaurasia-ds or adichaurasia2611@gmail.com
